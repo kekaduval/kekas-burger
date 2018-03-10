@@ -1,0 +1,22 @@
+{
+  "name": "kekas-burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekaduval/kekas-burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekaduval/kekas-burger/issues"
+  },
+  "homepage": "https://github.com/kekaduval/kekas-burger#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
